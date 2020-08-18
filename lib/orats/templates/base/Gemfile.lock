@@ -83,7 +83,7 @@ GEM
       mini_portile2 (~> 2.1.0)
     pg (0.19.0)
     puma (3.6.2)
-    rack (2.0.1)
+    rack (2.2.3)
     rack-mini-profiler (0.10.1)
       rack (>= 1.2.0)
     rack-protection (1.5.3)
